@@ -1,0 +1,44 @@
+_repo: English-Critical-Essays--Nineteenth-Century_31283
+_version: 0.1.0
+alternative_title: 'English Critical Essays: 19th Century'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Jones, Edmund D. (Edmund David)
+    alias: Jones, E. D. (Edmond David)
+    birthdate: 1869
+    deathdate: 1941
+    gutenberg_agent_id: '35121'
+    url: http://www.gutenberg.org/2009/agents/35121
+description: ''
+gutenberg_issued: '2010-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31283'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Criticism'
+- !lcsh 'Poetry'
+- !lcsh 'English poetry -- 19th century -- History and criticism'
+- !lcc 'PR'
+- !lcsh 'English essays'
+tableOfContents: Poetry and poetic diction, by W. Wordsworth -- Wordsworth's theory
+  of diction, by S. T. Coleridge -- Metrical composition, by S. T. Coleridge -- The
+  Canterbury pilgrims, by W. Blake -- On the tragedies of Shakespeare, considered
+  with reference to their fitness for stage representation, by C. Lamb -- A defence
+  of poetry, by P. B. Shelley -- My first acquaintance with poets, by W. Hazlitt --
+  Sacred poetry, by J. Keble -- Poetry with reference to Aristotle's Poetics, by J.
+  H. Newman -- The hero as poet. Dante; Shakespeare, by T. Carlyle -- An answer to
+  the question, what is poetry? By J. H. L. Hunt -- The choice of subjects in poetry,
+  by M. Arnold -- Of the pathetic fallacy, by J. Ruskin -- Thoughts on poetry and
+  its varieties, by J. S. Mill -- Wordsworth, Tennyson, and Browning; or, Pure, ornate,
+  and grotesque art in English poetry, by W. Bagehot -- Coleridge's writings, by W.
+  H. Pater -- Shakespeare; or, The poet, by R. W. Emerson -- Wordsworth, by J. R.
+  Lowell.
+title: 'English Critical Essays: Nineteenth Century'
+url: http://www.gutenberg.org/ebooks/31283
